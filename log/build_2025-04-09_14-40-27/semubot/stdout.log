@@ -1,0 +1,25 @@
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/semubot-laptop/semubot_ros2_ws/install/semubot/share/semubot/urdf/body.stl
+-- Symlinking: /home/semubot-laptop/semubot_ros2_ws/install/semubot/share/semubot/urdf/head.stl
+-- Symlinking: /home/semubot-laptop/semubot_ros2_ws/install/semubot/share/semubot/urdf/left_hand.stl
+-- Symlinking: /home/semubot-laptop/semubot_ros2_ws/install/semubot/share/semubot/urdf/movement_frame.stl
+-- Symlinking: /home/semubot-laptop/semubot_ros2_ws/install/semubot/share/semubot/urdf/omni_ball.stl
+-- Symlinking: /home/semubot-laptop/semubot_ros2_ws/install/semubot/share/semubot/urdf/right_hand.stl
+-- Symlinking: /home/semubot-laptop/semubot_ros2_ws/install/semubot/share/semubot/urdf/semubot.urdf
+-- Symlinking: /home/semubot-laptop/semubot_ros2_ws/install/semubot/share/semubot/launch/display_robot.launch.py
+-- Symlinking: /home/semubot-laptop/semubot_ros2_ws/install/semubot/share/ament_index/resource_index/package_run_dependencies/semubot
+-- Symlinking: /home/semubot-laptop/semubot_ros2_ws/install/semubot/share/ament_index/resource_index/parent_prefix_path/semubot
+-- Symlinking: /home/semubot-laptop/semubot_ros2_ws/install/semubot/share/semubot/environment/ament_prefix_path.sh
+-- Symlinking: /home/semubot-laptop/semubot_ros2_ws/install/semubot/share/semubot/environment/ament_prefix_path.dsv
+-- Symlinking: /home/semubot-laptop/semubot_ros2_ws/install/semubot/share/semubot/environment/path.sh
+-- Symlinking: /home/semubot-laptop/semubot_ros2_ws/install/semubot/share/semubot/environment/path.dsv
+-- Symlinking: /home/semubot-laptop/semubot_ros2_ws/install/semubot/share/semubot/local_setup.bash
+-- Symlinking: /home/semubot-laptop/semubot_ros2_ws/install/semubot/share/semubot/local_setup.sh
+-- Symlinking: /home/semubot-laptop/semubot_ros2_ws/install/semubot/share/semubot/local_setup.zsh
+-- Symlinking: /home/semubot-laptop/semubot_ros2_ws/install/semubot/share/semubot/local_setup.dsv
+-- Symlinking: /home/semubot-laptop/semubot_ros2_ws/install/semubot/share/semubot/package.dsv
+-- Symlinking: /home/semubot-laptop/semubot_ros2_ws/install/semubot/share/ament_index/resource_index/packages/semubot
+-- Symlinking: /home/semubot-laptop/semubot_ros2_ws/install/semubot/share/semubot/cmake/semubotConfig.cmake
+-- Symlinking: /home/semubot-laptop/semubot_ros2_ws/install/semubot/share/semubot/cmake/semubotConfig-version.cmake
+-- Symlinking: /home/semubot-laptop/semubot_ros2_ws/install/semubot/share/semubot/package.xml
