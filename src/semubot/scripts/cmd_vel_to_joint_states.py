@@ -9,7 +9,7 @@ class CmdVelToJointStates(Node):
     def __init__(self):
         super().__init__('cmd_vel_to_joint_states')
 
-        self.joint_pub = self.create_publisher(JointState, 'joint_states', 10)
+        self.joint_pub = self.create_publisher(JointState, 'cmd_vel_joint_states', 10)
         self.cmd_sub = self.create_subscription(Twist, 'cmd_vel', self.cmd_vel_callback, 10)
 
         self.last_time = self.get_clock().now()

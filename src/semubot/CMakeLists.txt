@@ -23,6 +23,7 @@ install(PROGRAMS
   scripts/cmd_vel_publisher.py
   scripts/cmd_vel_serial.py
   scripts/cmd_vel_to_joint_states.py
+  scripts/odom_broadcaster.py
   DESTINATION lib/${PROJECT_NAME}
 )
 

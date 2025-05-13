@@ -9,6 +9,7 @@
 /home/semubot-laptop/semubot_ros2_ws/install/semubot/lib/semubot/cmd_vel_publisher.py
 /home/semubot-laptop/semubot_ros2_ws/install/semubot/lib/semubot/cmd_vel_serial.py
 /home/semubot-laptop/semubot_ros2_ws/install/semubot/lib/semubot/cmd_vel_to_joint_states.py
+/home/semubot-laptop/semubot_ros2_ws/install/semubot/lib/semubot/odom_broadcaster.py
 /home/semubot-laptop/semubot_ros2_ws/install/semubot/share/ament_index/resource_index/package_run_dependencies/semubot
 /home/semubot-laptop/semubot_ros2_ws/install/semubot/share/ament_index/resource_index/parent_prefix_path/semubot
 /home/semubot-laptop/semubot_ros2_ws/install/semubot/share/semubot/environment/ament_prefix_path.sh

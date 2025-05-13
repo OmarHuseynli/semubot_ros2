@@ -316,8 +316,8 @@ ament_cmake_symlink_install_directory("/home/semubot-laptop/semubot_ros2_ws/src/
 # install(DIRECTORY "launch/" "DESTINATION" "share/semubot/launch")
 ament_cmake_symlink_install_directory("/home/semubot-laptop/semubot_ros2_ws/src/semubot" DIRECTORY "launch/" "DESTINATION" "share/semubot/launch")
 
-# install(PROGRAMS "scripts/cmd_vel_publisher.py" "scripts/cmd_vel_serial.py" "scripts/cmd_vel_to_joint_states.py" "DESTINATION" "lib/semubot")
-ament_cmake_symlink_install_programs("/home/semubot-laptop/semubot_ros2_ws/src/semubot" PROGRAMS "scripts/cmd_vel_publisher.py" "scripts/cmd_vel_serial.py" "scripts/cmd_vel_to_joint_states.py" "DESTINATION" "lib/semubot")
+# install(PROGRAMS "scripts/cmd_vel_publisher.py" "scripts/cmd_vel_serial.py" "scripts/cmd_vel_to_joint_states.py" "scripts/odom_broadcaster.py" "DESTINATION" "lib/semubot")
+ament_cmake_symlink_install_programs("/home/semubot-laptop/semubot_ros2_ws/src/semubot" PROGRAMS "scripts/cmd_vel_publisher.py" "scripts/cmd_vel_serial.py" "scripts/cmd_vel_to_joint_states.py" "scripts/odom_broadcaster.py" "DESTINATION" "lib/semubot")
 
 # install(FILES "/home/semubot-laptop/semubot_ros2_ws/build/semubot/ament_cmake_index/share/ament_index/resource_index/package_run_dependencies/semubot" "DESTINATION" "share/ament_index/resource_index/package_run_dependencies")
 ament_cmake_symlink_install_files("/home/semubot-laptop/semubot_ros2_ws/src/semubot" FILES "/home/semubot-laptop/semubot_ros2_ws/build/semubot/ament_cmake_index/share/ament_index/resource_index/package_run_dependencies/semubot" "DESTINATION" "share/ament_index/resource_index/package_run_dependencies")
